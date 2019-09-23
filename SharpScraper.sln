@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpScraper", "SharpScraper.csproj", "{E0385C40-37DD-4E2F-A7C8-4518D0CCFCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0385C40-37DD-4E2F-A7C8-4518D0CCFCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0385C40-37DD-4E2F-A7C8-4518D0CCFCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0385C40-37DD-4E2F-A7C8-4518D0CCFCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0385C40-37DD-4E2F-A7C8-4518D0CCFCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5080060-6D35-44C4-A782-9A0B4E92CE2E}
+	EndGlobalSection
+EndGlobal

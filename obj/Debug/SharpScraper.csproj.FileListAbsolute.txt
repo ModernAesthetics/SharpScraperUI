@@ -1,0 +1,10 @@
+E:\C#\SharpScraper\bin\Debug\SharpScraper.exe.config
+E:\C#\SharpScraper\bin\Debug\SharpScraper.exe
+E:\C#\SharpScraper\bin\Debug\SharpScraper.pdb
+E:\C#\SharpScraper\obj\Debug\SharpScraper.csprojAssemblyReference.cache
+E:\C#\SharpScraper\obj\Debug\SharpScraper.Properties.Resources.resources
+E:\C#\SharpScraper\obj\Debug\SharpScraper.csproj.GenerateResource.cache
+E:\C#\SharpScraper\obj\Debug\SharpScraper.csproj.CoreCompileInputs.cache
+E:\C#\SharpScraper\obj\Debug\SharpScraper.exe
+E:\C#\SharpScraper\obj\Debug\SharpScraper.pdb
+E:\C#\SharpScraper\obj\Debug\SharpScraper.Form1.resources
